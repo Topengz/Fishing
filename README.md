@@ -16,7 +16,7 @@ cd Fishing
 unzip Fishing.zip
 python Fish.py
 
-help
+
 ```
 
 <img src="Fish.png">
